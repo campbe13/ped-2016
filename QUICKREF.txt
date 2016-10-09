@@ -1,0 +1,29 @@
+grep [pattern]  [filename]
+-i   ignore case
+-v   invert match
+-c   count, instead of matching line
+-w   word match
+-n   line numbers
+-A n show n lines after match
+-B n show n lines before match
+-E   use regex   (^ begin, . any char, end $)
+
+find [starting point] [options]
+find ./ -name "myfile*"
+-name filename  
+-iname filenames ignore case
+-type d     directory
+-type f     file
+-mtime n    modify time n*24 hours (-n means <= n*24)
+-mmin n     modify time n minutes (-n means <=n)
+-newer filename   modify time newer than that of filename
+
+piping & redirection
+redirect to a file
+ls -l > listingCWD.txt
+
+redirect from a file
+cat <listingCWD.txt
+
+listing sorted
+ls  |sort 
