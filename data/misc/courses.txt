@@ -1,0 +1,9 @@
+420-142-DW,Computer Fundamentals
+420-112-DW,Logic of Programming
+420-143-DW,Computer Hardware and Software
+420-214-DW,Software Development
+420-221-DW,Internet Application Development 1
+420-241-DW,Operating Systems 1
+420-316-DW,Software Development 2
+420-317-DW,Software Development 3
+420-333-DW,Database 1
