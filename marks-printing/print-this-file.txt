@@ -1,0 +1,420 @@
+420-112-dw logic Assignment 1
+Submitted by   Alex
+
+Testrun 	 0 / 5
+TestDATA 	 15 / 20
+Flowchart 	 15 / 20
+Output 		 0 / 15
+Cover-Chart 	 5 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 10 / 10
+SourceVar 	 5 / 10
+Mark		 60 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Anthony
+
+Testrun 	 0 / 5
+TestDATA 	 5 / 20
+Flowchart 	 5 / 20
+Output 		 0 / 15
+Cover-Chart 	 5 / 10
+Source code
+SourceLogic 	 5 / 10
+SourceComments 	 5 / 10
+SourceVar 	 5 / 10
+Mark		 30 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Basil
+
+Testrun 	 0 / 5
+TestDATA 	 20 / 20
+Flowchart 	 20 / 20
+Output 		 15 / 15
+Cover-Chart 	 10 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 7 / 10
+SourceVar 	 5 / 10
+Mark		 87 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Benjamin
+
+Testrun 	 0 / 5
+TestDATA 	 15 / 20
+Flowchart 	 20 / 20
+Output 		 15 / 15
+Cover-Chart 	 10 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 10 / 10
+SourceVar 	 5 / 10
+Mark		 85 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Eric
+
+Testrun 	 0 / 5
+TestDATA 	 5 / 20
+Flowchart 	 10 / 20
+Output 		 15 / 15
+Cover-Chart 	 5 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 0 / 10
+SourceVar 	 5 / 10
+Mark		 50 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Evan
+
+Testrun 	 0 / 5
+TestDATA 	 10 / 20
+Flowchart 	 20 / 20
+Output 		 15 / 15
+Cover-Chart 	 5 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 0 / 10
+SourceVar 	 5 / 10
+Mark		 65 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Farzaneh
+
+Testrun 	 0 / 5
+TestDATA 	 20 / 20
+Flowchart 	 20 / 20
+Output 		 15 / 15
+Cover-Chart 	 10 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 10 / 10
+SourceVar 	 5 / 10
+Mark		 90 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   George
+
+Testrun 	 0 / 5
+TestDATA 	 15 / 20
+Flowchart 	 2 / 20
+Output 		 15 / 15
+Cover-Chart 	 5 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 2 / 10
+SourceVar 	 5 / 10
+Mark		 54 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Jonathan
+
+Testrun 	 0 / 5
+TestDATA 	 20 / 20
+Flowchart 	 20 / 20
+Output 		 10 / 15
+Cover-Chart 	 8 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 10 / 10
+SourceVar 	 5 / 10
+Mark		 83 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Joshua
+
+Testrun 	 0 / 5
+TestDATA 	 20 / 20
+Flowchart 	 20 / 20
+Output 		 15 / 15
+Cover-Chart 	 5 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 10 / 10
+SourceVar 	 5 / 10
+Mark		 85 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Keenan
+
+Testrun 	 0 / 5
+TestDATA 	 20 / 20
+Flowchart 	 20 / 20
+Output 		 10 / 15
+Cover-Chart 	 10 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 0 / 10
+SourceVar 	 5 / 10
+Mark		 75 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Kenny
+
+Testrun 	 0 / 5
+TestDATA 	 20 / 20
+Flowchart 	 15 / 20
+Output 		 0 / 15
+Cover-Chart 	 5 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 0 / 10
+SourceVar 	 5 / 10
+Mark		 55 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Kevin
+
+Testrun 	 0 / 5
+TestDATA 	 20 / 20
+Flowchart 	 10 / 20
+Output 		 0 / 15
+Cover-Chart 	 10 / 10
+Source code
+SourceLogic 	 5 / 10
+SourceComments 	 10 / 10
+SourceVar 	 10 / 10
+Mark		 65 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Lara
+
+Testrun 	 0 / 5
+TestDATA 	 20 / 20
+Flowchart 	 15 / 20
+Output 		 10 / 15
+Cover-Chart 	 5 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 10 / 10
+SourceVar 	 5 / 10
+Mark		 75 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Leonid
+
+Testrun 	 0 / 5
+TestDATA 	 20 / 20
+Flowchart 	 15 / 20
+Output 		 10 / 15
+Cover-Chart 	 10 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 10 / 10
+SourceVar 	 10 / 10
+Mark		 85 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Marian
+
+Testrun 	 0 / 5
+TestDATA 	 20 / 20
+Flowchart 	 15 / 20
+Output 		 15 / 15
+Cover-Chart 	 5 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 10 / 10
+SourceVar 	 5 / 10
+Mark		 80 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Maximum
+
+Testrun 	 5 / 5
+TestDATA 	 20 / 20
+Flowchart 	 20 / 20
+Output 		 15 / 15
+Cover-Chart 	 10 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 10 / 10
+SourceVar 	 10 / 10
+Mark		 100 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   NicA
+
+Testrun 	 0 / 5
+TestDATA 	 20 / 20
+Flowchart 	 5 / 20
+Output 		 12 / 15
+Cover-Chart 	 10 / 10
+Source code
+SourceLogic 	 5 / 10
+SourceComments 	 5 / 10
+SourceVar 	 10 / 10
+Mark		 67 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   NickT
+
+Testrun 	 0 / 5
+TestDATA 	 20 / 20
+Flowchart 	 20 / 20
+Output 		 15 / 15
+Cover-Chart 	 10 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 5 / 10
+SourceVar 	 5 / 10
+Mark		 85 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Niv
+
+Testrun 	 0 / 5
+TestDATA 	 15 / 20
+Flowchart 	 15 / 20
+Output 		 15 / 15
+Cover-Chart 	 10 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 10 / 10
+SourceVar 	 5 / 10
+Mark		 80 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Peter
+
+Testrun 	 0 / 5
+TestDATA 	 15 / 20
+Flowchart 	 15 / 20
+Output 		 15 / 15
+Cover-Chart 	 10 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 7 / 10
+SourceVar 	 10 / 10
+Mark		 82 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Quan
+
+Testrun 	 0 / 5
+TestDATA 	 15 / 20
+Flowchart 	 20 / 20
+Output 		 15 / 15
+Cover-Chart 	 10 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 10 / 10
+SourceVar 	 5 / 10
+Mark		 85 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Saad
+
+Testrun 	 0 / 5
+TestDATA 	 20 / 20
+Flowchart 	 20 / 20
+Output 		 15 / 15
+Cover-Chart 	 10 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 10 / 10
+SourceVar 	 5 / 10
+Mark		 90 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Shirin
+
+Testrun 	 0 / 5
+TestDATA 	 20 / 20
+Flowchart 	 20 / 20
+Output 		 15 / 15
+Cover-Chart 	 10 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 10 / 10
+SourceVar 	 s / 10
+Mark		 85 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Sonya
+
+Testrun 	 0 / 5
+TestDATA 	 5 / 20
+Flowchart 	 20 / 20
+Output 		 15 / 15
+Cover-Chart 	 5 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 10 / 10
+SourceVar 	 5 / 10
+Mark		 70 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Stephane
+
+Testrun 	 0 / 5
+TestDATA 	 15 / 20
+Flowchart 	 10 / 20
+Output 		 15 / 15
+Cover-Chart 	 5 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 5 / 10
+SourceVar 	 5 / 10
+Mark		 65 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Yanik
+
+Testrun 	 0 / 5
+TestDATA 	 20 / 20
+Flowchart 	 20 / 20
+Output 		 15 / 15
+Cover-Chart 	 10 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 10 / 10
+SourceVar 	 5 / 10
+Mark		 90 / 100
+
+
+420-112-dw logic Assignment 1
+Submitted by   Zhijie
+
+Testrun 	 0 / 5
+TestDATA 	 20 / 20
+Flowchart 	 20 / 20
+Output 		 15 / 15
+Cover-Chart 	 10 / 10
+Source code
+SourceLogic 	 10 / 10
+SourceComments 	 10 / 10
+SourceVar 	 5 / 10
+Mark		 90 / 100
+
+
