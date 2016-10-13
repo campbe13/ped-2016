@@ -1,17 +1,25 @@
 #!/bin/bash
-#split the cvs marks
-#pmcampbell
+# split the cvs marks, for printing
+# use as feedback for the students
+# pmcampbell
+
 count=0
 if [[ $# -ne 1 ]] ; then
     echo We need a .csv file as input
 	echo Usage: $(basename $0) marks.csv
 	exit
 fi 
-# sort, keeping header line (has name in 0,0
-line=$(head -n 1 $1)
 
-col1=$(echo $line|cut -d "," -f 1)
-if [[ $col1 != "name" ]] ; then 
+# file can be anywhere in the tree and 
+# and in any case
+fn=$(find ./ -iname $1)
+echo file found $fn
+
+# use the header line (has name in 0,0)
+line=$(head -n 1 $fn)
+
+firstline=$(echo $line|cut -d "," -f 1)
+if [[ $firstline != "name" ]] ; then 
    echo $(basename $0)  csv missing name in 0,0 data might not be valid
    exit
 fi
@@ -25,7 +33,9 @@ col8=$(echo $line|cut -d "," -f 8)
 col9=$(echo $line|cut -d "," -f 9)
 col10=$(echo $line|cut -d "," -f 10)
 	 
-sort $1 |grep -v name > marks-sorted.csv
+
+# sort, exclude header line (has name in 0,0
+sort $fn |grep -Ev "^name" > marks-sorted.csv
 
 for line in $(cat marks-sorted.csv) ; do
   let count++
@@ -59,4 +69,5 @@ for line in $(cat marks-sorted.csv) ; do
   echo ; echo
 
 done
+echo "Printed out info for $count students"
 
