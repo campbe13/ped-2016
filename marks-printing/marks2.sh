@@ -6,8 +6,8 @@
 count=0
 if [[ $# -ne 1 ]] ; then
     echo We need a .csv file as input
-	echo Usage: $(basename $0) marks.csv
-	exit
+    echo Usage: $(basename $0) marks.csv
+    exit
 fi 
 
 # file can be anywhere in the tree and 
